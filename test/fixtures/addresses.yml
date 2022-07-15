@@ -1,0 +1,61 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  city: MyString
+  string{80}: MyString
+  state_province: MyString
+  string{80}: MyString
+  country: MyString
+  string{80}: MyString
+  postal_code: MyString
+  string{20}: MyString
+  directions: MyString
+  string{2000}: MyString
+  deleted_at: MyString
+  datetime: MyString
+  created_at: MyString
+  datetime: MyString
+  updated_at: MyString
+  datetime: MyString
+  created_by_id: MyString
+  integer: MyString
+  updated_by_id: MyString
+  integer: MyString
+  street: MyString
+  string: MyString
+  google_friendly: MyString
+  string{1000}: MyString
+  latitude: MyString
+  string: MyString
+  longitude: MyString
+  string: MyString
+
+two:
+  city: MyString
+  string{80}: MyString
+  state_province: MyString
+  string{80}: MyString
+  country: MyString
+  string{80}: MyString
+  postal_code: MyString
+  string{20}: MyString
+  directions: MyString
+  string{2000}: MyString
+  deleted_at: MyString
+  datetime: MyString
+  created_at: MyString
+  datetime: MyString
+  updated_at: MyString
+  datetime: MyString
+  created_by_id: MyString
+  integer: MyString
+  updated_by_id: MyString
+  integer: MyString
+  street: MyString
+  string: MyString
+  google_friendly: MyString
+  string{1000}: MyString
+  latitude: MyString
+  string: MyString
+  longitude: MyString
+  string: MyString

@@ -1,0 +1,33 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  organization_id: MyString
+  integer: MyString
+  inspector_id: MyString
+  integer: MyString
+  created_by_id: MyString
+  integer: MyString
+  updated_by_id: MyString
+  integer: MyString
+  deleted_at: MyString
+  datetime: MyString
+  created_at: MyString
+  datetime: MyString
+  updated_at: MyString
+  datetime: MyString
+
+two:
+  organization_id: MyString
+  integer: MyString
+  inspector_id: MyString
+  integer: MyString
+  created_by_id: MyString
+  integer: MyString
+  updated_by_id: MyString
+  integer: MyString
+  deleted_at: MyString
+  datetime: MyString
+  created_at: MyString
+  datetime: MyString
+  updated_at: MyString
+  datetime: MyString

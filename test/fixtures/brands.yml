@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  producer_id: 1
+  data_source: MyString
+  deleted_at: 2022-07-17 12:29:15
+  created_by_id: 1
+  updated_by_id: 1
+  loc_comments: MyString
+  show_loc_comment_on_web: false
+  hide_from_web: false
+
+two:
+  name: MyString
+  producer_id: 1
+  data_source: MyString
+  deleted_at: 2022-07-17 12:29:15
+  created_by_id: 1
+  updated_by_id: 1
+  loc_comments: MyString
+  show_loc_comment_on_web: false
+  hide_from_web: false

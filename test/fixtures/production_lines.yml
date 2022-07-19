@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  plant_id: 1
+  name: MyString
+  description: MyText
+  created_by_id: 1
+  updated_by_id: 1
+  deleted_at: 2022-07-17 12:56:40
+  dairy_status: MyString
+
+two:
+  plant_id: 1
+  name: MyString
+  description: MyText
+  created_by_id: 1
+  updated_by_id: 1
+  deleted_at: 2022-07-17 12:56:40
+  dairy_status: MyString

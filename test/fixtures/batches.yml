@@ -1,0 +1,37 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  code: MyString
+  comments: MyString
+  product_id: 1
+  date: 2022-07-17 12:28:03
+  approved_at: 2022-07-17 12:28:03
+  deleted_at: 2022-07-17 12:28:03
+  applied_at: 2022-07-17 12:28:03
+  created_by_id: 1
+  updated_by_id: 1
+  conditions: MyString
+  state: MyString
+  state_time: 2022-07-17 12:28:03
+  state_changed_by_id: 1
+  previous_state: MyString
+  previous_state_time: 2022-07-17 12:28:03
+  previous_state_changed_by_id: 1
+
+two:
+  code: MyString
+  comments: MyString
+  product_id: 1
+  date: 2022-07-17 12:28:03
+  approved_at: 2022-07-17 12:28:03
+  deleted_at: 2022-07-17 12:28:03
+  applied_at: 2022-07-17 12:28:03
+  created_by_id: 1
+  updated_by_id: 1
+  conditions: MyString
+  state: MyString
+  state_time: 2022-07-17 12:28:03
+  state_changed_by_id: 1
+  previous_state: MyString
+  previous_state_time: 2022-07-17 12:28:03
+  previous_state_changed_by_id: 1

@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  phone: MyString
+  fax: MyString
+  email: MyString
+  mobile: MyString
+  web_site: MyString
+  deleted_at: 2022-07-17 13:15:29
+  created_by_id: 1
+  updated_by_id: 1
+
+two:
+  phone: MyString
+  fax: MyString
+  email: MyString
+  mobile: MyString
+  web_site: MyString
+  deleted_at: 2022-07-17 13:15:29
+  created_by_id: 1
+  updated_by_id: 1

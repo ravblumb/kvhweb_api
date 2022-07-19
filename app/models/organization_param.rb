@@ -1,0 +1,2 @@
+class OrganizationParam < ApplicationRecord
+end

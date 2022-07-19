@@ -1,0 +1,2 @@
+class OrganizationAttachment < ApplicationRecord
+end

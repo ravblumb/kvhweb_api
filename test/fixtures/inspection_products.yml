@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  inspection_id: 1
+  product_id: 1
+  product_report: MyString
+  issue_id: 1
+
+two:
+  inspection_id: 1
+  product_id: 1
+  product_report: MyString
+  issue_id: 1

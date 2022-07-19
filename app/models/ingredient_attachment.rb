@@ -1,0 +1,2 @@
+class IngredientAttachment < ApplicationRecord
+end

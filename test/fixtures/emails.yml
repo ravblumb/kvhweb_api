@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  from: MyString
+  to: MyString
+  cc: MyString
+  bcc: MyString
+  subject: MyString
+  body: MyText
+  deleted_at: 2022-07-17 12:44:31
+
+two:
+  from: MyString
+  to: MyString
+  cc: MyString
+  bcc: MyString
+  subject: MyString
+  body: MyText
+  deleted_at: 2022-07-17 12:44:31

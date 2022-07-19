@@ -1,0 +1,31 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  inspected_event_id: 1
+  date: 2022-07-17
+  start_time: 2022-07-17 12:48:43
+  end_time: 2022-07-17 12:48:43
+  inspector_count: 1
+  event_type: MyString
+  event_status: MyString
+  comments: MyText
+  created_by_id: 1
+  updated_by_id: 1
+  deleted_at: 2022-07-17 12:48:43
+  legacy_id: 1
+  organization_id: 1
+
+two:
+  inspected_event_id: 1
+  date: 2022-07-17
+  start_time: 2022-07-17 12:48:43
+  end_time: 2022-07-17 12:48:43
+  inspector_count: 1
+  event_type: MyString
+  event_status: MyString
+  comments: MyText
+  created_by_id: 1
+  updated_by_id: 1
+  deleted_at: 2022-07-17 12:48:43
+  legacy_id: 1
+  organization_id: 1

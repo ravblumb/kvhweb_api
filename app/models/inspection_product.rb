@@ -1,0 +1,2 @@
+class InspectionProduct < ApplicationRecord
+end

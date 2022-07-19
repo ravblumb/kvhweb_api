@@ -1,0 +1,2 @@
+class TruckingLogAttachment < ApplicationRecord
+end

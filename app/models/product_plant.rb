@@ -1,0 +1,2 @@
+class ProductPlant < ApplicationRecord
+end

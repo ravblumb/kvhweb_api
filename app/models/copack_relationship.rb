@@ -1,0 +1,2 @@
+class CopackRelationship < ApplicationRecord
+end

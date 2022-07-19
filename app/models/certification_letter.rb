@@ -1,0 +1,2 @@
+class CertificationLetter < ApplicationRecord
+end

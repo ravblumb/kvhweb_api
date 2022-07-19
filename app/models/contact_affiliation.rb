@@ -1,0 +1,2 @@
+class ContactAffiliation < ApplicationRecord
+end

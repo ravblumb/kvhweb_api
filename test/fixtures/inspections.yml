@@ -1,0 +1,243 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  organization_id: 1
+  inspector_id: 1
+  date: 2022-07-17 12:50:04
+  pay_type: MyString
+  duration: 1.5
+  kilometers: 1.5
+  flat_fee: 1.5
+  expenses: 1.5
+  comments: MyString
+  created_by_id: 1
+  updated_by_id: 1
+  ingredients_checked: false
+  red_flag_items_checked: false
+  non_kosher_ingredients_checked: false
+  bulk_ingredients_checked: false
+  products_checked: false
+  labels_checked: false
+  batch_sheets_checked: false
+  master_formula_cards_checked: false
+  process_flow_checked: false
+  non_certified_items_checked: false
+  pas_bishul_yisroel_procedures_checked: false
+  challa_procedures_checked: false
+  steam_condensate_issue_checked: false
+  dairy_pareve_segregation_checked: false
+  fresh_vegetables_checked: false
+  automatic_koshering_checked: false
+  cleaning_in_place_checked: false
+  changes_found: false
+  kashruth_comments: MyText
+  travel_duration: 1.5
+  pay_calculation: 1.5
+  pay_formula: MyString
+  pay_override: 1.5
+  km_pay_calculation: 1.5
+  km_pay_formula: MyString
+  km_pay_override: 1.5
+  bill_calculation: 1.5
+  bill_formula: MyString
+  bill_override: 1.5
+  inspected_event_date_id: 1
+  start_time: 2022-07-17 12:50:04
+  end_time: 2022-07-17 12:50:04
+  status: MyString
+  type: 
+  submitted_at: 2022-07-17 12:50:04
+  rc_approved_at: 2022-07-17 12:50:04
+  admin_approved_at: 2022-07-17 12:50:04
+  accounting_approved_at: 2022-07-17 12:50:04
+  paid_at: 2022-07-17 12:50:04
+  billed_at: 2022-07-17 12:50:04
+  submitted_by_id: 1
+  rc_approved_by_id: 1
+  admin_approved_by_id: 1
+  accounting_approved_by_id: 1
+  paid_by_id: 1
+  billed_by_id: 1
+  data_source: MyString
+  legacy_id: 1
+  is_food_service: false
+  contact_info_checked: false
+  billing_rate_override: 1.5
+  holiday_multiplier: 1.5
+  expenses_paid_by_agency: 1.5
+  signature_name: MyString
+  signature_at: 2022-07-17 12:50:04
+  signature_json: MyText
+  private_comments: MyText
+  additional_profile_question_1_checked: false
+  additional_profile_question_2_checked: false
+  additional_profile_question_3_checked: false
+  additional_profile_question_4_checked: false
+  additional_profile_question_5_checked: false
+  deleted_at: 2022-07-17 12:50:04
+  kashruth_admin_approved_at: 2022-07-17 12:50:04
+  kashruth_admin_approved_by_id: 1
+  date_original: 2022-07-17 12:50:04
+  duration_original: 1.5
+  travel_duration_original: 1.5
+  kilometers_original: 1.5
+  pay_type_original: MyString
+  expenses_original: 1.5
+  expenses_paid_by_agency_original: 1.5
+  flat_fee_original: 1.5
+  holiday_multiplier_original: 1.5
+  comments_original: MyString
+  payment_comments: MyString
+  additional_charges: 1.5
+  inspector_approved_at: 2022-07-17 12:50:04
+  inspector_approved_by_id: 1
+  shift_supervised: MyString
+  reply_to_opening_question_1: MyString
+  reply_to_opening_question_2: MyString
+  reply_to_opening_question_3: MyString
+  reply_to_opening_question_4: MyString
+  reply_to_opening_question_5: MyString
+  reply_to_midday_question_1: MyString
+  reply_to_midday_question_2: MyString
+  reply_to_midday_question_3: MyString
+  reply_to_midday_question_4: MyString
+  reply_to_midday_question_5: MyString
+  reply_to_closing_question_1: MyString
+  reply_to_closing_question_2: MyString
+  reply_to_closing_question_3: MyString
+  reply_to_closing_question_4: MyString
+  reply_to_closing_question_5: MyString
+  reply_to_found_seals_intact: MyString
+  reply_to_sealed_all_areas: MyString
+  reply_to_pas_bishul_setup: MyString
+  reply_to_checked_existing_ingredients: MyString
+  reply_to_supplies_needed: MyString
+  met_with_organization_contact_id: 1
+  reply_to_parent_organization_profile_question_1: MyString
+  reply_to_parent_organization_profile_question_2: MyString
+  reply_to_parent_organization_profile_question_3: MyString
+  reply_to_parent_organization_profile_question_4: MyString
+  reply_to_parent_organization_profile_question_5: MyString
+  required_fields_filled: false
+  external_email_sent: false
+
+two:
+  organization_id: 1
+  inspector_id: 1
+  date: 2022-07-17 12:50:04
+  pay_type: MyString
+  duration: 1.5
+  kilometers: 1.5
+  flat_fee: 1.5
+  expenses: 1.5
+  comments: MyString
+  created_by_id: 1
+  updated_by_id: 1
+  ingredients_checked: false
+  red_flag_items_checked: false
+  non_kosher_ingredients_checked: false
+  bulk_ingredients_checked: false
+  products_checked: false
+  labels_checked: false
+  batch_sheets_checked: false
+  master_formula_cards_checked: false
+  process_flow_checked: false
+  non_certified_items_checked: false
+  pas_bishul_yisroel_procedures_checked: false
+  challa_procedures_checked: false
+  steam_condensate_issue_checked: false
+  dairy_pareve_segregation_checked: false
+  fresh_vegetables_checked: false
+  automatic_koshering_checked: false
+  cleaning_in_place_checked: false
+  changes_found: false
+  kashruth_comments: MyText
+  travel_duration: 1.5
+  pay_calculation: 1.5
+  pay_formula: MyString
+  pay_override: 1.5
+  km_pay_calculation: 1.5
+  km_pay_formula: MyString
+  km_pay_override: 1.5
+  bill_calculation: 1.5
+  bill_formula: MyString
+  bill_override: 1.5
+  inspected_event_date_id: 1
+  start_time: 2022-07-17 12:50:04
+  end_time: 2022-07-17 12:50:04
+  status: MyString
+  type: 
+  submitted_at: 2022-07-17 12:50:04
+  rc_approved_at: 2022-07-17 12:50:04
+  admin_approved_at: 2022-07-17 12:50:04
+  accounting_approved_at: 2022-07-17 12:50:04
+  paid_at: 2022-07-17 12:50:04
+  billed_at: 2022-07-17 12:50:04
+  submitted_by_id: 1
+  rc_approved_by_id: 1
+  admin_approved_by_id: 1
+  accounting_approved_by_id: 1
+  paid_by_id: 1
+  billed_by_id: 1
+  data_source: MyString
+  legacy_id: 1
+  is_food_service: false
+  contact_info_checked: false
+  billing_rate_override: 1.5
+  holiday_multiplier: 1.5
+  expenses_paid_by_agency: 1.5
+  signature_name: MyString
+  signature_at: 2022-07-17 12:50:04
+  signature_json: MyText
+  private_comments: MyText
+  additional_profile_question_1_checked: false
+  additional_profile_question_2_checked: false
+  additional_profile_question_3_checked: false
+  additional_profile_question_4_checked: false
+  additional_profile_question_5_checked: false
+  deleted_at: 2022-07-17 12:50:04
+  kashruth_admin_approved_at: 2022-07-17 12:50:04
+  kashruth_admin_approved_by_id: 1
+  date_original: 2022-07-17 12:50:04
+  duration_original: 1.5
+  travel_duration_original: 1.5
+  kilometers_original: 1.5
+  pay_type_original: MyString
+  expenses_original: 1.5
+  expenses_paid_by_agency_original: 1.5
+  flat_fee_original: 1.5
+  holiday_multiplier_original: 1.5
+  comments_original: MyString
+  payment_comments: MyString
+  additional_charges: 1.5
+  inspector_approved_at: 2022-07-17 12:50:04
+  inspector_approved_by_id: 1
+  shift_supervised: MyString
+  reply_to_opening_question_1: MyString
+  reply_to_opening_question_2: MyString
+  reply_to_opening_question_3: MyString
+  reply_to_opening_question_4: MyString
+  reply_to_opening_question_5: MyString
+  reply_to_midday_question_1: MyString
+  reply_to_midday_question_2: MyString
+  reply_to_midday_question_3: MyString
+  reply_to_midday_question_4: MyString
+  reply_to_midday_question_5: MyString
+  reply_to_closing_question_1: MyString
+  reply_to_closing_question_2: MyString
+  reply_to_closing_question_3: MyString
+  reply_to_closing_question_4: MyString
+  reply_to_closing_question_5: MyString
+  reply_to_found_seals_intact: MyString
+  reply_to_sealed_all_areas: MyString
+  reply_to_pas_bishul_setup: MyString
+  reply_to_checked_existing_ingredients: MyString
+  reply_to_supplies_needed: MyString
+  met_with_organization_contact_id: 1
+  reply_to_parent_organization_profile_question_1: MyString
+  reply_to_parent_organization_profile_question_2: MyString
+  reply_to_parent_organization_profile_question_3: MyString
+  reply_to_parent_organization_profile_question_4: MyString
+  reply_to_parent_organization_profile_question_5: MyString
+  required_fields_filled: false
+  external_email_sent: false

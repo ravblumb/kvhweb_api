@@ -1,0 +1,33 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  country_id: 1
+  name: MyString
+  fipf104: MyString
+  iso2: MyString
+  iso3: MyString
+  ison: MyString
+  internet: MyString
+  capital: MyString
+  map_reference: MyString
+  nationality_singular: MyString
+  nationality_plural: MyString
+  currency: MyString
+  currency_code: MyString
+  population: 1
+
+two:
+  country_id: 1
+  name: MyString
+  fipf104: MyString
+  iso2: MyString
+  iso3: MyString
+  ison: MyString
+  internet: MyString
+  capital: MyString
+  map_reference: MyString
+  nationality_singular: MyString
+  nationality_plural: MyString
+  currency: MyString
+  currency_code: MyString
+  population: 1

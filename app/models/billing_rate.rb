@@ -1,0 +1,2 @@
+class BillingRate < ApplicationRecord
+end

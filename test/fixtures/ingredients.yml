@@ -1,0 +1,33 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  generic_name: MyString
+  comments: MyString
+  code: MyString
+  company_id: 1
+  is_dairy: false
+  is_dairy_equipment: false
+  is_meat: false
+  is_fish: false
+  is_passover: false
+  kosher_status: MyString
+  deleted_at: 2022-07-17 12:48:16
+  ingredient_group_id: 1
+  previous_id: 1
+
+two:
+  name: MyString
+  generic_name: MyString
+  comments: MyString
+  code: MyString
+  company_id: 1
+  is_dairy: false
+  is_dairy_equipment: false
+  is_meat: false
+  is_fish: false
+  is_passover: false
+  kosher_status: MyString
+  deleted_at: 2022-07-17 12:48:16
+  ingredient_group_id: 1
+  previous_id: 1

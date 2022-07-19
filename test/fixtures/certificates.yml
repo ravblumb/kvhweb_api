@@ -1,0 +1,57 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  unique_id: MyString
+  is_dairy: false
+  is_dairy_equipment: false
+  is_meat: false
+  is_fish: false
+  is_pas_yisroel: false
+  is_cholov_yisroel: false
+  is_bishul_yisroel: false
+  is_yoshon: false
+  is_passover: false
+  comments: MyString
+  conditions: MyString
+  approved_at: 2022-07-17 12:29:40
+  expires_at: 2022-07-17 12:29:40
+  cancelled_at: 2022-07-17 12:29:40
+  cancel_reason: MyString
+  symbol: MyString
+  passover_symbol: MyString
+  ukd_dairy_pareve_meat: MyString
+  ukd_other_status: MyString
+  product_id: 1
+  certifier_id: 1
+  data_source: MyString
+  kosher_group: 1
+  security_level: 1
+  deleted_at: 2022-07-17 12:29:40
+
+two:
+  unique_id: MyString
+  is_dairy: false
+  is_dairy_equipment: false
+  is_meat: false
+  is_fish: false
+  is_pas_yisroel: false
+  is_cholov_yisroel: false
+  is_bishul_yisroel: false
+  is_yoshon: false
+  is_passover: false
+  comments: MyString
+  conditions: MyString
+  approved_at: 2022-07-17 12:29:40
+  expires_at: 2022-07-17 12:29:40
+  cancelled_at: 2022-07-17 12:29:40
+  cancel_reason: MyString
+  symbol: MyString
+  passover_symbol: MyString
+  ukd_dairy_pareve_meat: MyString
+  ukd_other_status: MyString
+  product_id: 1
+  certifier_id: 1
+  data_source: MyString
+  kosher_group: 1
+  security_level: 1
+  deleted_at: 2022-07-17 12:29:40

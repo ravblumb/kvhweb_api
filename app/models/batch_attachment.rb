@@ -1,0 +1,2 @@
+class BatchAttachment < ApplicationRecord
+end

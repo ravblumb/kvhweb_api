@@ -1,0 +1,2 @@
+class FailedLoginIp < ApplicationRecord
+end

@@ -1,0 +1,51 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 1
+  report: MyString
+  name: MyString
+  is_public: false
+  columns_per_page: 1
+  new_page_for_group: MyString
+  font_size: 1
+  paper_orientation: MyString
+  group_headers_on_separate_lines: false
+  repeat_all_group_headers: false
+  repeat_table_header: false
+  column_list: MyString
+  report_column_list: MyString
+  group_list: MyString
+  sort_list: MyString
+  include_in_menu: false
+  use_table: false
+  created_by_id: 1
+  updated_by_id: 1
+  small_header: false
+  remove_space: false
+  filter: MyText
+  show_filter: false
+
+two:
+  user_id: 1
+  report: MyString
+  name: MyString
+  is_public: false
+  columns_per_page: 1
+  new_page_for_group: MyString
+  font_size: 1
+  paper_orientation: MyString
+  group_headers_on_separate_lines: false
+  repeat_all_group_headers: false
+  repeat_table_header: false
+  column_list: MyString
+  report_column_list: MyString
+  group_list: MyString
+  sort_list: MyString
+  include_in_menu: false
+  use_table: false
+  created_by_id: 1
+  updated_by_id: 1
+  small_header: false
+  remove_space: false
+  filter: MyText
+  show_filter: false

@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  organization_id: 1
+  attachment_id: 1
+  deleted_at: 2022-07-17 12:51:56
+
+two:
+  organization_id: 1
+  attachment_id: 1
+  deleted_at: 2022-07-17 12:51:56

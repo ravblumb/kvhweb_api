@@ -1,0 +1,2 @@
+class Personalization < ApplicationRecord
+end

@@ -1,0 +1,31 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  amount: 1.5
+  organization_id: 1
+  paid_by_id: 1
+  paid_at: 2022-07-17 12:54:10
+  created_by_id: 1
+  updated_by_id: 1
+  deleted_at: 2022-07-17 12:54:10
+  paid_ip_address: MyString
+  paid_response: MyText
+  paypal_token: MyString
+  paypal_response: MyText
+  paypal_payer_id: MyString
+
+two:
+  name: MyString
+  amount: 1.5
+  organization_id: 1
+  paid_by_id: 1
+  paid_at: 2022-07-17 12:54:10
+  created_by_id: 1
+  updated_by_id: 1
+  deleted_at: 2022-07-17 12:54:10
+  paid_ip_address: MyString
+  paid_response: MyText
+  paypal_token: MyString
+  paypal_response: MyText
+  paypal_payer_id: MyString

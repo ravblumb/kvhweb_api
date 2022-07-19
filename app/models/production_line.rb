@@ -1,0 +1,2 @@
+class ProductionLine < ApplicationRecord
+end

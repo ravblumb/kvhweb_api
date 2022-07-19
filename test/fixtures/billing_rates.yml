@@ -1,0 +1,37 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  code: MyString
+  name: MyString
+  hour_rate: 1.5
+  first_five_hours_rate: 1.5
+  min_hours: 1.5
+  created_by_id: 1
+  updated_by_id: 1
+  is_industrial: false
+  is_food_service: false
+  payroll_code: MyString
+  is_regular: false
+  base_fee: 1.5
+  hour_pay_rate: 1.5
+  base_pay_rate: 1.5
+  override_mashgiach_pay_rate: false
+  min_pay_hours: 1.5
+
+two:
+  code: MyString
+  name: MyString
+  hour_rate: 1.5
+  first_five_hours_rate: 1.5
+  min_hours: 1.5
+  created_by_id: 1
+  updated_by_id: 1
+  is_industrial: false
+  is_food_service: false
+  payroll_code: MyString
+  is_regular: false
+  base_fee: 1.5
+  hour_pay_rate: 1.5
+  base_pay_rate: 1.5
+  override_mashgiach_pay_rate: false
+  min_pay_hours: 1.5

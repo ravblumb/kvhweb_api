@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  group: 1.5
+  bugs_usually_found: MyString
+  procedure: MyText
+  deleted_at: 2022-07-17 12:55:23
+  picture_filename: MyString
+  picture_content_type: MyString
+  picture_binary_data: 
+
+two:
+  name: MyString
+  group: 1.5
+  bugs_usually_found: MyString
+  procedure: MyText
+  deleted_at: 2022-07-17 12:55:23
+  picture_filename: MyString
+  picture_content_type: MyString
+  picture_binary_data: 

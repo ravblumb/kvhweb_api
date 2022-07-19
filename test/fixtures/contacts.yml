@@ -1,0 +1,55 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type: 
+  first_name: MyString
+  last_name: MyString
+  salutation: MyString
+  position: MyString
+  comments: MyString
+  telcom_id: 1
+  organization_id: 1
+  legacy_id: 1
+  deleted_at: 2022-07-17 12:31:46
+  email_contact: false
+  created_by_id: 1
+  updated_by_id: 1
+  email_notification: false
+  pay_rate: 1.5
+  address_id: 1
+  inspector_type: MyString
+  location_area: MyString
+  is_invoicing: false
+  data_source: MyString
+  entered_by_company_id: 1
+  out_of_the_office_until: 2022-07-17 12:31:46
+  map_marker_colour: MyString
+  payroll_code: 1
+  is_inactive: false
+
+two:
+  type: 
+  first_name: MyString
+  last_name: MyString
+  salutation: MyString
+  position: MyString
+  comments: MyString
+  telcom_id: 1
+  organization_id: 1
+  legacy_id: 1
+  deleted_at: 2022-07-17 12:31:46
+  email_contact: false
+  created_by_id: 1
+  updated_by_id: 1
+  email_notification: false
+  pay_rate: 1.5
+  address_id: 1
+  inspector_type: MyString
+  location_area: MyString
+  is_invoicing: false
+  data_source: MyString
+  entered_by_company_id: 1
+  out_of_the_office_until: 2022-07-17 12:31:46
+  map_marker_colour: MyString
+  payroll_code: 1
+  is_inactive: false

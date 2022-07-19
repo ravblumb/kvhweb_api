@@ -1,0 +1,143 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  comments: MyString
+  security_level: 1
+  retail_or_commercial: MyString
+  other_producers: MyString
+  other_certifiers: MyString
+  date_code_format: MyString
+  sizes: MyString
+  packaging_style: MyString
+  code: MyString
+  is_batch: false
+  ukd_id: MyString
+  is_dairy: false
+  is_dairy_equipment: false
+  is_meat: false
+  is_fish: false
+  is_pas_yisroel: false
+  is_cholov_yisroel: false
+  is_bishul_yisroel: false
+  is_yoshon: false
+  is_passover: false
+  conditions: MyString
+  approved_at: 2022-07-17 12:56:54
+  expires_at: 2022-07-17 12:56:54
+  cancelled_at: 2022-07-17 12:56:54
+  cancel_reason: MyString
+  symbol: MyString
+  passover_symbol: MyString
+  ukd_dairy_pareve_meat: MyString
+  ukd_other_status: MyString
+  kosher_status: MyString
+  kosher_group: 1
+  producer_id: 1
+  certifier_id: 1
+  is_service: false
+  data_source: MyString
+  is_private_label_override: false
+  deleted_at: 2022-07-17 12:56:54
+  brand_id: 1
+  product_group_id: 1
+  is_active_denorm: false
+  is_duplicate_denorm: false
+  producer_name_denorm: MyString
+  previous_id: 1
+  created_by_id: 1
+  updated_by_id: 1
+  formula_complete_at: 2022-07-17 12:56:54
+  is_formula: false
+  loc_status_denorm: MyString
+  keywords: MyString
+  kosher_compact_denorm: MyString
+  notebook_id: 1
+  state: MyString
+  state_time: 2022-07-17 12:56:54
+  last_reviewed_at: 2022-07-17 12:56:54
+  production_line_id: 1
+  state_changed_by_id: 1
+  previous_state: MyString
+  previous_state_time: 2022-07-17 12:56:54
+  previous_state_changed_by_id: 1
+  replaced_by_id: 1
+  not_on_certifier_web_site: false
+  material_hauled: false
+  product_category: MyString
+  external_id: MyString
+  upc_code: MyString
+  certificate_id: MyString
+  dr_code: 1
+  dr_details: MyString
+
+two:
+  name: MyString
+  comments: MyString
+  security_level: 1
+  retail_or_commercial: MyString
+  other_producers: MyString
+  other_certifiers: MyString
+  date_code_format: MyString
+  sizes: MyString
+  packaging_style: MyString
+  code: MyString
+  is_batch: false
+  ukd_id: MyString
+  is_dairy: false
+  is_dairy_equipment: false
+  is_meat: false
+  is_fish: false
+  is_pas_yisroel: false
+  is_cholov_yisroel: false
+  is_bishul_yisroel: false
+  is_yoshon: false
+  is_passover: false
+  conditions: MyString
+  approved_at: 2022-07-17 12:56:54
+  expires_at: 2022-07-17 12:56:54
+  cancelled_at: 2022-07-17 12:56:54
+  cancel_reason: MyString
+  symbol: MyString
+  passover_symbol: MyString
+  ukd_dairy_pareve_meat: MyString
+  ukd_other_status: MyString
+  kosher_status: MyString
+  kosher_group: 1
+  producer_id: 1
+  certifier_id: 1
+  is_service: false
+  data_source: MyString
+  is_private_label_override: false
+  deleted_at: 2022-07-17 12:56:54
+  brand_id: 1
+  product_group_id: 1
+  is_active_denorm: false
+  is_duplicate_denorm: false
+  producer_name_denorm: MyString
+  previous_id: 1
+  created_by_id: 1
+  updated_by_id: 1
+  formula_complete_at: 2022-07-17 12:56:54
+  is_formula: false
+  loc_status_denorm: MyString
+  keywords: MyString
+  kosher_compact_denorm: MyString
+  notebook_id: 1
+  state: MyString
+  state_time: 2022-07-17 12:56:54
+  last_reviewed_at: 2022-07-17 12:56:54
+  production_line_id: 1
+  state_changed_by_id: 1
+  previous_state: MyString
+  previous_state_time: 2022-07-17 12:56:54
+  previous_state_changed_by_id: 1
+  replaced_by_id: 1
+  not_on_certifier_web_site: false
+  material_hauled: false
+  product_category: MyString
+  external_id: MyString
+  upc_code: MyString
+  certificate_id: MyString
+  dr_code: 1
+  dr_details: MyString

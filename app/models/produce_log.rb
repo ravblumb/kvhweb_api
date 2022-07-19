@@ -1,0 +1,2 @@
+class ProduceLog < ApplicationRecord
+end

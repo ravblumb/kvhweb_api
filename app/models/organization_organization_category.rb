@@ -1,0 +1,2 @@
+class OrganizationOrganizationCategory < ApplicationRecord
+end

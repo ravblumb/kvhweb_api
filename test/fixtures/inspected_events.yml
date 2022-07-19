@@ -1,0 +1,111 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  organization_id: 1
+  venue_id: 1
+  alt_venue_name: MyString
+  alt_venue_address_id: 1
+  event_date: 2022-07-17
+  event_time: 2022-07-17 12:49:03
+  event_title: MyString
+  people_count: 1
+  is_kitchen_on_different_floor: false
+  is_non_kosher_kitchen: false
+  kosher_location: MyString
+  non_kosher_location: MyString
+  is_kashering_required: false
+  kashering_required: MyString
+  is_renting: false
+  rental_equipment: MyString
+  rental_supplier: MyString
+  is_wine: false
+  is_liquor: false
+  is_candy: false
+  is_other_supplies: false
+  other_supplies: MyString
+  is_sushi: false
+  is_cotton_candy: false
+  is_popcorn: false
+  is_hotdogs: false
+  is_cappuccino: false
+  is_other_3rd_party_equipment: false
+  other_3rd_party_equipment: MyString
+  is_party_planner: false
+  setup_time: 2022-07-17 12:49:03
+  kitchen_open_time: 2022-07-17 12:49:03
+  kitchen_close_time: 2022-07-17 12:49:03
+  dishwashing_end_time: 2022-07-17 12:49:03
+  mashgiach_request_time: 2022-07-17 12:49:03
+  mashgiach_preference: MyString
+  received_at: 2022-07-17 12:49:03
+  comments: MyText
+  requires_administrator_attention: false
+  event_status: MyString
+  replaced_inspector_id: 1
+  notebook_id: 1
+  created_by_id: 1
+  updated_by_id: 1
+  deleted_at: 2022-07-17 12:49:03
+  type: 
+  signed_at: 2022-07-17 12:49:03
+  legacy_id: 1
+  billed_at: 2022-07-17 12:49:03
+  billed_by_id: 1
+  is_staff_meal: false
+  is_confidential: false
+  reviewed_at: 2022-07-17 12:49:03
+
+two:
+  organization_id: 1
+  venue_id: 1
+  alt_venue_name: MyString
+  alt_venue_address_id: 1
+  event_date: 2022-07-17
+  event_time: 2022-07-17 12:49:03
+  event_title: MyString
+  people_count: 1
+  is_kitchen_on_different_floor: false
+  is_non_kosher_kitchen: false
+  kosher_location: MyString
+  non_kosher_location: MyString
+  is_kashering_required: false
+  kashering_required: MyString
+  is_renting: false
+  rental_equipment: MyString
+  rental_supplier: MyString
+  is_wine: false
+  is_liquor: false
+  is_candy: false
+  is_other_supplies: false
+  other_supplies: MyString
+  is_sushi: false
+  is_cotton_candy: false
+  is_popcorn: false
+  is_hotdogs: false
+  is_cappuccino: false
+  is_other_3rd_party_equipment: false
+  other_3rd_party_equipment: MyString
+  is_party_planner: false
+  setup_time: 2022-07-17 12:49:03
+  kitchen_open_time: 2022-07-17 12:49:03
+  kitchen_close_time: 2022-07-17 12:49:03
+  dishwashing_end_time: 2022-07-17 12:49:03
+  mashgiach_request_time: 2022-07-17 12:49:03
+  mashgiach_preference: MyString
+  received_at: 2022-07-17 12:49:03
+  comments: MyText
+  requires_administrator_attention: false
+  event_status: MyString
+  replaced_inspector_id: 1
+  notebook_id: 1
+  created_by_id: 1
+  updated_by_id: 1
+  deleted_at: 2022-07-17 12:49:03
+  type: 
+  signed_at: 2022-07-17 12:49:03
+  legacy_id: 1
+  billed_at: 2022-07-17 12:49:03
+  billed_by_id: 1
+  is_staff_meal: false
+  is_confidential: false
+  reviewed_at: 2022-07-17 12:49:03

@@ -1,0 +1,2 @@
+class IngredientGroup < ApplicationRecord
+end

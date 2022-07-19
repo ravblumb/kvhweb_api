@@ -1,0 +1,2 @@
+class Telcom < ApplicationRecord
+end

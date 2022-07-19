@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  agency_name: MyString
+  file_name: MyString
+  import_type: MyString
+  retries_left: 1
+
+two:
+  agency_name: MyString
+  file_name: MyString
+  import_type: MyString
+  retries_left: 1

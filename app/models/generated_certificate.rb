@@ -1,0 +1,2 @@
+class GeneratedCertificate < ApplicationRecord
+end

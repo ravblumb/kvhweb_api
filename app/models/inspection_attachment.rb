@@ -1,0 +1,2 @@
+class InspectionAttachment < ApplicationRecord
+end

@@ -1,0 +1,45 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  file_name: MyString
+  content_type: MyString
+  comments: MyString
+  is_batch: false
+  is_passover: false
+  issued_at: 2022-07-17 12:30:04
+  expires_at: 2022-07-17 12:30:04
+  conditions: MyString
+  symbol: MyString
+  passover_symbol: MyString
+  kosher_group: 1
+  company_id: 1
+  producer_id: 1
+  certifier_id: 1
+  deleted_at: 2022-07-17 12:30:04
+  created_by_id: 1
+  updated_by_id: 1
+  file_uploaded: false
+  data_source: MyString
+  file_digest: MyString
+
+two:
+  file_name: MyString
+  content_type: MyString
+  comments: MyString
+  is_batch: false
+  is_passover: false
+  issued_at: 2022-07-17 12:30:04
+  expires_at: 2022-07-17 12:30:04
+  conditions: MyString
+  symbol: MyString
+  passover_symbol: MyString
+  kosher_group: 1
+  company_id: 1
+  producer_id: 1
+  certifier_id: 1
+  deleted_at: 2022-07-17 12:30:04
+  created_by_id: 1
+  updated_by_id: 1
+  file_uploaded: false
+  data_source: MyString
+  file_digest: MyString

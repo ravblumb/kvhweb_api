@@ -1,0 +1,2 @@
+class ProductUsesIngredient < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class InspectorAssignment < ApplicationRecord
+end

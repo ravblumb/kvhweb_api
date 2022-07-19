@@ -1,0 +1,2 @@
+class IssueAttachment < ApplicationRecord
+end

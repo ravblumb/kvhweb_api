@@ -1,0 +1,2 @@
+class InspectedEventAttachment < ApplicationRecord
+end

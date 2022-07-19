@@ -1,0 +1,35 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2022-07-17 12:30:20
+  inspection_id: 1
+  placed_by_id: 1
+  tevel_type: MyString
+  matzo_used: 1
+  matzo_purchased: 1
+  tevel_weight: 1.5
+  mixes_per_day: 1
+  baking_days_per_week: 1
+  mixes_per_week: 1
+  created_by_id: 1
+  updated_by_id: 1
+  deleted_at: 2022-07-17 12:30:20
+  organization_id: 1
+  weight_per_box: 1.5
+
+two:
+  date: 2022-07-17 12:30:20
+  inspection_id: 1
+  placed_by_id: 1
+  tevel_type: MyString
+  matzo_used: 1
+  matzo_purchased: 1
+  tevel_weight: 1.5
+  mixes_per_day: 1
+  baking_days_per_week: 1
+  mixes_per_week: 1
+  created_by_id: 1
+  updated_by_id: 1
+  deleted_at: 2022-07-17 12:30:20
+  organization_id: 1
+  weight_per_box: 1.5

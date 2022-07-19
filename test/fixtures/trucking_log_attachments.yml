@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  attachment_id: 1
+  trucking_log_id: 1
+  deleted_at: 2022-07-17 13:15:46
+  start_date: 2022-07-17 13:15:46
+
+two:
+  attachment_id: 1
+  trucking_log_id: 1
+  deleted_at: 2022-07-17 13:15:46
+  start_date: 2022-07-17 13:15:46

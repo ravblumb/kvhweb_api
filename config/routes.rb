@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
-  #get "/", to: 'welcome'
-  #post "/", to: 'welcome'
+  get "/", to: 'layouts#welcome'
+  post "/", to: 'layouts#welcome'
   root to: 'layouts#welcome'
   resources :users
   resources :ukd_import_retries

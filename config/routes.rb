@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  root to: 'welcome'
   resources :users
   resources :ukd_import_retries
   resources :trucking_logs

@@ -1346,6 +1346,7 @@ ActiveRecord::Schema.define(version: 2022_07_18_032947) do
     t.boolean "read_only", default: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
+    t.string "password_digest"
     t.index ["contact_id"], name: "index_users_on_contact_id"
     t.index ["created_by_id"], name: "index_users_on_created_by_id"
     t.index ["login"], name: "index_users_on_login", unique: true

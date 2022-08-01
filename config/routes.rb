@@ -1,7 +1,7 @@
 Rails.application.routes.draw do
-  get "/", to: 'home#welcome'
-  post "/", to: 'home#welcome'
-  root to: 'home#welcome'
+  get "/", to: 'contacts#index'
+  post "/", to: 'contacts#index'
+  root to: 'contacts#index'
   resources :users
   resources :ukd_import_retries
   resources :trucking_logs
